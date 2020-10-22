@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homePage": "https://MehulBawadia.github.io/react-todo-tutorial",
+  "homepage": "https://MehulBawadia.github.io/react-todo-tutorial",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
